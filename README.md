@@ -4,7 +4,7 @@ check your site helth and send email if status fails
 script is meant to run as cronjob
 either in crontab or user cron job
 
-#/etc/crontab
+# /etc/crontab
 
 */5 * * * *  USER /path/to/script
 
